@@ -54,5 +54,5 @@ In this project, the following libraries for Python were used:
 - TensorFlow
 - OpenCV
 - Numpy
-- Matplotlib
+- Matplotlib for plotting
 - Weights and Biases in order to track the experiments
